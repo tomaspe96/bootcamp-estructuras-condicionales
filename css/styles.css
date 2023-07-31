@@ -1,0 +1,66 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+    padding: 0;
+    margin: 0;
+}
+
+.main-heading{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+#main-heading-id{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.main-subheading{
+    text-align: center;
+    font-size: 1rem; 
+}
+
+.flex-container{
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 3rem;
+    border-radius: 1rem;
+}
+
+.flex-container-clean{
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
+.flex-item{
+background-color: aliceblue;
+padding: 1rem;
+text-align: center;
+width: 200px;
+height: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.light-section{
+    background-color: azure;
+    width: 100%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
