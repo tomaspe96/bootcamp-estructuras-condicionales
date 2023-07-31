@@ -1,5 +1,3 @@
-/*
-
 var cantidadDeGatos = 26;
 
 for (var i = 1; i <= cantidadDeGatos; i++) {
@@ -17,9 +15,7 @@ for (var i = 1; i <= cantidadDeGatos; i++) {
   console.log(`Gato #${i}: ${emoji}`);
 }
 
-*/
 
-/*
 
 // Variables con los valores numéricos libres
 var cantidadDeGatos = 50;
@@ -38,7 +34,7 @@ for (var i = 1; i <= cantidadDeGatos; i++) {
   console.log(gato);
 }
 
-*/
+
 
 // Variables con los valores numéricos libres
 var cantidadDeGatos = 10;
