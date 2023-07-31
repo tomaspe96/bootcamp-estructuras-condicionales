@@ -3,6 +3,11 @@
 var cantidadDeGatos = 10;
 var cantidadDePasos = 2;
 
+
+//Ejecuto
+
+console.warn("Ejercicio C")
+
 // Bucle FOR para recorrer la cantidad de gatos
 for (var i = 1; i <= cantidadDeGatos; i++) {
   var gato = "Gato #" + i + ": ";

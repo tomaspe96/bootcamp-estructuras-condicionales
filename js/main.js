@@ -5,6 +5,8 @@ var cantidadDeGatos = 26;
 
 //Ejecuto
 
+console.warn("Ejercicio A")
+
 for (var i = 1; i <= cantidadDeGatos; i++) { //Bucle FOR segun la cantidad de gatos
 
   var emoji; //Creo la variable emoji para los gatos

@@ -2,6 +2,11 @@
 var cantidadDeGatos = 10;
 var cantidadDePasos = 10;
 
+//Ejecuto
+
+
+console.warn("Ejercicio B")
+
 // Bucle FOR para recorrer la cantidad de gatos
 for (var i = 1; i <= cantidadDeGatos; i++) {
   var gato = "Gato #" + i + ": 🐈 ";
