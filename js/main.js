@@ -5,7 +5,7 @@ var cantidadDeGatos = 26;
 
 //Ejecuto
 
-for (var i = 1; i <= cantidadDeGatos; i++) { //Repito el loop segun la cantidad de gatos
+for (var i = 1; i <= cantidadDeGatos; i++) { //Bucle FOR segun la cantidad de gatos
 
   var emoji; //Creo la variable emoji para los gatos
 
